@@ -1,0 +1,147 @@
+.container {
+    border: 1px solid tomato;
+    width: 323px;
+    height: 283px;
+    position: absolute;
+    left: 471px;
+    top: 173px;
+    border-radius: 10px;
+    box-shadow: 8px 6px 15px grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    padding-top: 31px;
+    filter: blur(5px);
+    
+}
+.paris {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    color: tomato;
+    left: 92px;
+    top: -6px;
+    filter: blur(5px);
+}
+.comp {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    color: tomato;
+    left: 102px;
+    top: 19px;
+    font-size: 19px;
+    text-decoration: line-through solid;
+}
+.p1 {
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 76px;
+    top: 33px;
+    font-size: 19px;
+}
+.square {
+    position: relative;
+    left: 75px;
+    top: 35px;
+}
+.plus {
+    position: relative;
+    left: 275px;
+    top: 137px;
+}
+.h1 {
+    position: relative;
+    font-size: 43px;
+    left: 506px;
+    font-family: Arial, Helvetica, sans-serif;
+    filter: blur(5px);
+}
+.back {
+    position: relative;
+    left: 82px;
+    top: -235px;
+}
+.bac {
+    position: relative;
+    left: 123px;
+    top: -265px;
+}
+.side {
+    position: relative;
+    left: -296px;
+    top: -353px;
+}
+.side1 {
+    position: relative;
+    left: 303px;
+    top: -367px;
+}
+.new {
+    border-radius: 14px;
+    border: 1px solid orangered;
+    position: relative;
+    height: 154px;
+    width: 355px;
+    left: 463px;
+    top: 150px;
+}
+
+.add1 {
+        color: orangered;
+        top: -1px;
+        position: absolute;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 17px;
+        left: 107px;
+    }
+    .text {
+        border-radius: 7px;
+        position: absolute;
+        border: 1px solid orangered;
+        height: 33px;
+        width: 250px;
+        top: 61px;
+        left: 24px;
+        text-decoration: none;
+}
+.butn {
+    position: relative;
+    top: 115px;
+    left: 267px;
+    left: 158px;
+    border-radius: 25px;
+    background-color: orangered;
+    color: white;
+    width: 69px;
+    height: 32px;
+    font-size: 17px;
+}
+
+.add1 {
+        color: orangered;
+        top: -1px;
+        position: absolute;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 17px;
+        left: 107px;
+    }
+.text{
+    border-radius: 7px;
+    position: absolute;
+    border: 1px solid orangered;
+    height: 33px;
+    width: 250px;
+    top: 63px;
+    left: 70px;
+    text-decoration: none;
+}
+.butn {
+    position: relative;
+    top: 115px;
+    left: 267px;
+    left: 158px;
+    border-radius: 25px;
+    background-color: orangered;
+    color: white;
+    width: 69px;
+    height: 32px;
+    font-size: 17px;
+}
